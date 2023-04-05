@@ -1,4 +1,4 @@
-# Hello, Welcome to my GitHub profile
+## Hello there 👋
 ### My name is Gabriel and my nickname is Ninja 🥷
 
 <div>
