@@ -1,8 +1,5 @@
 # Hello, Welcome to my GitHub profile
-### My name is Gabriel and my nickname is Ninja
-
-<!--
-**Ninjaalpha01/Ninjaalpha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Gabriel and my nickname is Ninja 🥷
 
 ![Snake animation](https://github.com/Ninjaalpha01/Ninjaalpha01/blob/output/github-contribution-grid-snake.svg)
 
