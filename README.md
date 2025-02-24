@@ -10,8 +10,14 @@ I am a recently graduated junior developer, beginning my career in technology. I
 - 💼 Searching new opportunities...
 - 🌱 Studying software development, with a focus on back-end.
 
-## Programming Languages
-<img align="center" alt="Ninja-Skills" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,nodejs,docker,postgres,mongodb,c,flutter,java,obsidian">
+## Technologies and Languages
+<img align="center" alt="Ninja-Skills" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,nodejs,docker,c,flutter,java">
+
+## Databases
+<img align="center" alt="Ninja-Skills" src="https://skillicons.dev/icons?i=postgres,mongodb,firebase">
+
+## Tools
+<img align="center" alt="Ninja-Skills" src="https://skillicons.dev/icons?i=git,github,vscode,obsidian">
   
 ## Contact me
 
